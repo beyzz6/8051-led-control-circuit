@@ -58,6 +58,4 @@ The circuit was designed and tested using:
 
 Simulation allows testing the circuit behavior before implementing it on physical hardware.
 
----
 
-## Project Structure
